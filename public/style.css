@@ -1,0 +1,19 @@
+.card-header {
+    background: rgb(94, 2, 94);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 0;
+}
+.table-image td,
+    th {
+        vertical-align: middle;
+    }
+
+.img_width{
+width:250px;
+}
+th{
+    text-align:center;
+
+}
