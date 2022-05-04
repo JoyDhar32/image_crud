@@ -10,6 +10,7 @@
 ## About Laravel
 ![image](https://user-images.githubusercontent.com/54507249/166659079-6616a578-c35e-4296-9ca2-8e96ea1710fb.png)
 
-this is test
+<h2 style="color:purple,font-weight:bold,font-size:30px,text-align:center">this is test</h2>
+
 ![image](https://user-images.githubusercontent.com/54507249/166659146-2022dc20-07da-43b8-b81f-8d41b71bba64.png)
 uploaded
